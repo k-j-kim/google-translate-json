@@ -1,0 +1,14 @@
+{
+  "name": "google-translate-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "node translate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^5.0.0"
+  }
+}

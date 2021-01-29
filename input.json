@@ -1,0 +1,9 @@
+{
+  "languages": ["es", "it", "ko", "zh-CN", "zh-TW", "ja", "el", "de"],
+  "labels": {
+    "title": "* Currently only the following groups of people are eligible to get vaccinated. Check all that apply to you.",
+    "option1": "People ages 65 and older",
+    "option2": "Healthcare workers in ambulatory care settings not affiliated with a hospital",
+    "option3": "Funeral workers with direct contact with infectious materials and bodily fluids"
+  }
+}

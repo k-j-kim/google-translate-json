@@ -1,0 +1,56 @@
+{
+  "en": {
+    "title": "* Currently only the following groups of people are eligible to get vaccinated. Check all that apply to you.",
+    "option1": "People ages 65 and older",
+    "option2": "Healthcare workers in ambulatory care settings not affiliated with a hospital",
+    "option3": "Funeral workers with direct contact with infectious materials and bodily fluids"
+  },
+  "ko": {
+    "option3": "감염성 물질 및 체액과 직접 접촉하는 장례식 근로자",
+    "option2": "병원과 관련이없는 외래 진료 환경의 의료 종사자",
+    "title": "* 현재 다음 그룹의 사람들 만 예방 접종을받을 수 있습니다.해당하는 모든 항목에 표시하십시오.",
+    "option1": "65 세 이상"
+  },
+  "es": {
+    "option2": "Trabajadores de la salud en entornos de atención ambulatoria no afiliados a un hospital",
+    "title": "* Actualmente, solo los siguientes grupos de personas son elegibles para vacunarse.Marque todo lo que le corresponda.",
+    "option3": "Trabajadores funerarios con contacto directo con materiales infecciosos y fluidos corporales",
+    "option1": "Personas de 65 años o más"
+  },
+  "zh-TW": {
+    "option3": "eral儀工人直接接觸傳染性物質和體液",
+    "option2": "不在醫院的非臥床護理環境中的醫護人員",
+    "option1": "65歲以上的人",
+    "title": "*目前只有以下人群有資格接種疫苗。選中所有適用於您的內容。"
+  },
+  "it": {
+    "title": "* Attualmente solo i seguenti gruppi di persone possono essere vaccinati.Seleziona tutto ciò che si applica a te.",
+    "option3": "Operai funebri a diretto contatto con materiali infettivi e fluidi corporei",
+    "option2": "Operatori sanitari in strutture di assistenza ambulatoriale non affiliate a un ospedale",
+    "option1": "Persone dai 65 anni in su"
+  },
+  "de": {
+    "option3": "Bestattungsunternehmer mit direktem Kontakt mit infektiösen Materialien und Körperflüssigkeiten",
+    "title": "* Derzeit können nur die folgenden Personengruppen geimpft werden.Überprüfen Sie alles, was auf Sie zutrifft.",
+    "option2": "Beschäftigte im Gesundheitswesen in ambulanten Pflegeeinrichtungen, die nicht mit einem Krankenhaus verbunden sind",
+    "option1": "Menschen ab 65 Jahren"
+  },
+  "el": {
+    "option1": "Άτομα ηλικίας 65 ετών και άνω",
+    "option2": "Εργαζόμενοι σε υγειονομική περίθαλψη σε περιβάλλον περιπατητικής περίθαλψης που δεν συνδέονται με νοσοκομείο",
+    "title": "* Προς το παρόν μόνο οι ακόλουθες ομάδες ατόμων έχουν δικαίωμα εμβολιασμού.Ελέγξτε όλα όσα ισχύουν για εσάς.",
+    "option3": "Εργάτες κηδειών με άμεση επαφή με μολυσματικά υλικά και σωματικά υγρά"
+  },
+  "zh-CN": {
+    "option3": "eral仪工人直接接触传染性物质和体液",
+    "option2": "不在医院的非卧床护理环境中的医护人员",
+    "title": "*目前只有以下人群有资格接种疫苗。选中所有适用于您的内容。",
+    "option1": "65岁以上的人"
+  },
+  "ja": {
+    "option1": "65歳以上の人",
+    "title": "※現在、予防接種を受ける資格があるのは以下のグループのみです。該当するものをすべて確認してください。",
+    "option2": "病院と提携していない外来診療環境の医療従事者",
+    "option3": "感染性物質や体液と直接接触する葬儀労働者"
+  }
+}
