@@ -1,6 +1,6 @@
 # google-translate-json
 
-Wrapper around `https://github.com/vitalets/google-translate-api` to translate JSON label maps.
+Wrapper around [google-translate-api](https://github.com/vitalets/google-translate-api) to translate JSON label maps.
 
 ## Instruction
 
